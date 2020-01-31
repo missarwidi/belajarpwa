@@ -1,0 +1,24 @@
+{
+"products":[
+[{"id":1,"name":"Fox, asian red","category":"Teal"},
+{"id":2,"name":"Otter, canadian river","category":"Purple"},
+{"id":3,"name":"Boat-billed heron","category":"Crimson"},
+{"id":4,"name":"Otter, canadian river","category":"Turquoise"},
+{"id":5,"name":"House sparrow","category":"Aquamarine"},
+{"id":6,"name":"Stanley crane","category":"Crimson"},
+{"id":7,"name":"European stork","category":"Turquoise"},
+{"id":8,"name":"Bandicoot, southern brown","category":"Fuscia"},
+{"id":9,"name":"Fox, pampa gray","category":"Fuscia"},
+{"id":10,"name":"Egret, snowy","category":"Maroon"},
+{"id":11,"name":"Scarlet macaw","category":"Red"},
+{"id":12,"name":"Yellow-crowned night heron","category":"Orange"},
+{"id":13,"name":"African lion","category":"Turquoise"},
+{"id":14,"name":"Heron, striated","category":"Green"},
+{"id":15,"name":"African pied wagtail","category":"Green"},
+{"id":16,"name":"White spoonbill","category":"Teal"},
+{"id":17,"name":"Bent-toed gecko","category":"Teal"},
+{"id":18,"name":"Plover, blacksmith","category":"Yellow"},
+{"id":19,"name":"Cape Barren goose","category":"Fuscia"},
+{"id":20,"name":"Otter, giant","category":"Pink"}]
+]
+}
